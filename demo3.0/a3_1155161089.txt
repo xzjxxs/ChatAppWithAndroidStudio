@@ -1,0 +1,11 @@
+A3_1155161089_Xuzijun
+
+http://18.116.63.13/api/a3/get_chatrooms
+
+http://18.116.63.13/api/a3/get_messages?chatroom_id=3&page=1
+
+http://18.116.63.13/api/a3/send_message
+chatroom_id=2
+user_id=11551689
+name=xu
+message=hi
