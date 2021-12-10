@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986226041082",
+    "project_id": "chatapp-333c0",
+    "storage_bucket": "chatapp-333c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986226041082:android:5120c6daa95dce161ee943",
+        "android_client_info": {
+          "package_name": "hk.edu.cuhk.ie.iems5722.a4_1155161089"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986226041082-5tkh20sc4fu3tavci9ptqjscr7cmtc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Ocsa-gi2JAJ6C3IXwOkRITzc8k6cR1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986226041082-5tkh20sc4fu3tavci9ptqjscr7cmtc03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
